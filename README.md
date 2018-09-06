@@ -8,4 +8,4 @@ This is the first local edit.
 This is the second local edit.
 Adding new stuff online. 
 Second change locally.
-
+After resolving the conflict, this is the new version.
