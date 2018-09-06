@@ -10,3 +10,5 @@ Adding new stuff online.
 Second change locally.
 After resolving the conflict, this is the new version.
 ...And continuing online. It wil be resolved online.
+
+After the branch, this is another modification.
