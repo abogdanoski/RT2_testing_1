@@ -12,3 +12,5 @@ After resolving the conflict, this is the new version.
 ...And continuing online. It wil be resolved online.
 
 After the branch, this is another modification.
+
+There is more to add to this, after creating the branch.
